@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Sun" size="1.000000 0.560547" />
+    <ImageTarget name="Earth" size="1.000000 0.666992" />
+    <ImageTarget name="Moon" size="1.000000 0.677734" />
+  </Tracking>
+</QCARConfig>

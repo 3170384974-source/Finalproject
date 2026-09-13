@@ -1,0 +1,91 @@
+<Root>
+	<Panel>
+		<Question SelectType="True">
+			<Problem>埃菲尔铁塔位于哪个城市？</Problem>
+			<Answer>
+				<Item option="A.法国巴黎">1</Item>
+				<Item option="B.英国伦敦">0</Item>
+				<Item option="C.意大利罗马">0</Item>
+				<Item option="D.德国柏林">0</Item>
+			</Answer>
+			<Analysis>埃菲尔铁塔位于法国巴黎，建于1889年，高330米。</Analysis>
+		</Question>
+
+		<Question SelectType="True">
+			<Problem>袋鼠主要生活在哪个大洲？</Problem>
+			<Answer>
+				<Item option="A.亚洲">0</Item>
+				<Item option="B.非洲">0</Item>
+				<Item option="C.大洋洲">1</Item>
+				<Item option="D.南美洲">0</Item>
+			</Answer>
+			<Analysis>袋鼠是澳大利亚特有的有袋类动物，主要生活在大洋洲。</Analysis>
+		</Question>
+
+		<Question SelectType="True">
+			<Problem>以下哪个是世界七大奇迹之一，位于印度？</Problem>
+			<Answer>
+				<Item option="A.长城">0</Item>
+				<Item option="B.泰姬陵">1</Item>
+				<Item option="C.金字塔">0</Item>
+				<Item option="D.斗兽场">0</Item>
+			</Answer>
+			<Analysis>泰姬陵位于印度阿格拉，是莫卧儿帝国皇帝沙贾汗为纪念其妃子而建，被誉为"完美建筑"。</Analysis>
+		</Question>
+
+		<Question SelectType="True">
+			<Problem>亚马逊雨林主要分布在哪个大洲？</Problem>
+			<Answer>
+				<Item option="A.亚洲">0</Item>
+				<Item option="B.非洲">0</Item>
+				<Item option="C.南美洲">1</Item>
+				<Item option="D.北美洲">0</Item>
+			</Answer>
+			<Analysis>亚马逊雨林覆盖南美洲多个国家，包括巴西、秘鲁、哥伦比亚等，是世界上最大的热带雨林。</Analysis>
+		</Question>
+
+		<Question SelectType="True">
+			<Problem>企鹅为什么不会飞？</Problem>
+			<Answer>
+				<Item option="A.因为翅膀太小">0</Item>
+				<Item option="B.为了适应水下游泳，翅膀进化成了鳍状肢">1</Item>
+				<Item option="C.因为身体太重">0</Item>
+				<Item option="D.因为它们生活在寒冷地区">0</Item>
+			</Answer>
+			<Analysis>企鹅的祖先曾经会飞，但为了适应水下捕食，它们的翅膀逐渐进化成适合划水的鳍状肢，失去了飞行能力。</Analysis>
+		</Question>
+
+		<Question SelectType="True">
+			<Problem>地球上面积最大的大洲是哪个？</Problem>
+			<Answer>
+				<Item option="A.非洲">0</Item>
+				<Item option="B.北美洲">0</Item>
+				<Item option="C.亚洲">1</Item>
+				<Item option="D.南极洲">0</Item>
+			</Answer>
+			<Analysis>亚洲面积约4458万平方公里，是世界上面积最大的大洲，人口也最多。</Analysis>
+		</Question>
+
+		<Question SelectType="True">
+			<Problem>狮子和老虎谁体型更大？</Problem>
+			<Answer>
+				<Item option="A.狮子更大">0</Item>
+				<Item option="B.老虎更大">1</Item>
+				<Item option="C.一样大">0</Item>
+				<Item option="D.取决于性别">0</Item>
+			</Answer>
+			<Analysis>东北虎是现存体型最大的猫科动物，成年雄性体重可达300公斤以上，超过狮子。</Analysis>
+		</Question>
+
+		<Question SelectType="True">
+			<Problem>自由女神像是哪个国家送给美国的礼物？</Problem>
+			<Answer>
+				<Item option="A.英国">0</Item>
+				<Item option="B.法国">1</Item>
+				<Item option="C.西班牙">0</Item>
+				<Item option="D.意大利">0</Item>
+			</Answer>
+			<Analysis>自由女神像是法国于1876年赠送给美国的礼物，庆祝美国独立100周年，象征着自由与民主。</Analysis>
+		</Question>
+	</Panel>
+</Root>
